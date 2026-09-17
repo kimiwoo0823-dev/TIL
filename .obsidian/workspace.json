@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Backend/Java/Spring/Annotation/@JoinColumn.md",
+                "file": "Backend/Java/Spring/JPA/JPA 즉시로딩, 지연 로딩.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "@JoinColumn"
+              "title": "JPA 즉시로딩, 지연 로딩"
             }
           }
         ]
@@ -199,10 +199,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d30c5d8d8996d94e",
+  "active": "a77b288af71b814d",
   "lastOpenFiles": [
-    "Backend/Java/Spring/무제.md",
+    "Backend/Java/Spring/JPA",
     "Backend/Java/Spring/Annotation/@JoinColumn.md",
+    "Backend/Java/Spring/JPA/JPA 즉시로딩, 지연 로딩.md",
+    "Backend/Java/Spring/무제.md",
     "Backend/Java/Spring/Annotation",
     "Backend/Java/Default/record.md",
     "Backend/Java/Spring",
